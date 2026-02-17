@@ -21,7 +21,7 @@
 
 # CogniFlow Enterprise AI Platform 🚀
 
-**LIVE DEMO:** https://d23e109b1e886d24db.gradio.live
+**LIVE DEMO:** https://d49c42606907b4e7c7.gradio.live/
 
 ✅ **Day 1: Functional MVP deployed to production**
 
@@ -35,7 +35,7 @@
 *Live demo running 24/7 - try it now!*
 
 ## Live Demo
-https://d23e109b1e886d24db.gradio.live
+https://d49c42606907b4e7c7.gradio.live/
 
 ## Technologies
 - Hugging Face `facebook/bart-large-mnli`
