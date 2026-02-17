@@ -18,8 +18,24 @@
 - Provides keyword extraction
 - Offers action recommendations
 
+
+# CogniFlow Enterprise AI Platform 🚀
+
+**LIVE DEMO:** https://d23e109b1e886d24db.gradio.live
+
+✅ **Day 1: Functional MVP deployed to production**
+
+## Core Capabilities
+- Multi-category content classification (7 business categories)
+- Priority level assessment with confidence scoring
+- Sentiment analysis (Positive/Negative/Neutral)  
+- Keyword extraction for quick insights
+- Actionable recommendations by content type
+
+*Live demo running 24/7 - try it now!*
+
 ## Live Demo
-SOON!!!!!!!!!
+https://d23e109b1e886d24db.gradio.live
 
 ## Technologies
 - Hugging Face `facebook/bart-large-mnli`
@@ -28,3 +44,6 @@ SOON!!!!!!!!!
 
 ## Business Impact
 Demonstrates how AI can automate content routing and prioritization in enterprise settings.
+
+
+https://scribehow.com/embed-preview/Analyze_Enterprise_Content_Using_the_Analyzer_Tool__L0AFTRcEQYSMt0NJKujLgA?as=slides&size=flexible
