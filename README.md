@@ -14,7 +14,7 @@
 
 > An intelligent AI platform that automatically classifies, analyzes, and routes enterprise content using state-of-the-art transformer models.
 
-![CogniFlow Demo](screenshots/demo.png) <!-- Add your screenshot here -->
+
 
 ---
 
@@ -71,6 +71,20 @@ Enterprises lose millions annually due to:
 2. Click "Open in Colab"
 3. Run all cells
 4. Use the generated public URL
+
+
+
+## 👤 Author
+
+**Kalel**
+- GitHub: [@kalel718](https://github.com/kalel718)
+- LinkedIn: [Connect with me]https://www.linkedin.com/in/mark-kennedy-563376244/
+
+---
+
+⭐ **Star this repo if you find it helpful!**
+
+Built with ❤️ using state-of-the-art AI
 
 
 Navigate to <https://7b78ca215f67db8d9c.gradio.live/>
