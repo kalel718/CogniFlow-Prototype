@@ -100,18 +100,6 @@ python cogniflow_app.py
 
 
 
-Navigate to <https://7b78ca215f67db8d9c.gradio.live/>
-<img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/d8fc5780-d4f6-468b-b8e3-4763c631fb53" />
-
-Click the "🎯 ENTERPRISE CONTENT ANALYZER" field.
-<img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/a0a1d6f7-6d1c-4ed0-b09f-db91f5c2ec5b" />
-
-Type "john smith has a critical billing issue- charged $500 twice [[Enter]]"
-<img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/a0a7b640-adb2-47fa-b87e-0dee46ae938d" />
-
-Click "Clear to erase fields"
-<img width="1541" height="958" alt="image" src="https://github.com/user-attachments/assets/f7b208fb-305a-4bb8-8a30-2bf9df6fbf2a" />
-
 
 
 
