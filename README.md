@@ -3,7 +3,7 @@
 <img width="1403" height="760" alt="Screen Shot 2026-02-17 at 1 25 08 AM" src="https://github.com/user-attachments/assets/e840c3bc-dfeb-46c8-99fc-d9a9a84cc43a" />
 
 
-[CogniFlow Enterprise AI.pdf](https://github.com/user-attachments/files/25428401/CogniFlow.Enterprise.AI.pdf)
+
 
 
 
